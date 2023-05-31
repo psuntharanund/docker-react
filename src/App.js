@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Now I have some hope. Keep it up! You are doing great.
+          I have successfully tweaked it so no more constant logins.
         </p>
         <a
           className="App-link"
